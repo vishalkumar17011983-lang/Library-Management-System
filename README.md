@@ -35,7 +35,7 @@ pip install mysql-connector-python
 5. Run the program:
 
 ```bash
-python library.py
+library management.py
 ```
 
 ## Database
